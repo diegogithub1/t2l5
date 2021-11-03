@@ -1,0 +1,10 @@
+1- cd /tmp
+2- pwd
+3- date
+4- cd /home
+5- pwd
+6- ls -li
+7- mkdir PRUEBA
+8- mkdir dir dentro de dirs
+9- cp /etc/hostname /home/alumno/PRUEBA/Mensaje
+10- locate Mensaje
