@@ -1,1 +1,2 @@
 1- ls /bin
+2- ls /tmp
