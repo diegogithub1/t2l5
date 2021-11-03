@@ -5,3 +5,4 @@
 5- sed 's/panza/barriga/g' el_quijote.txt
 6- sed -i 's/panza/barriga/gi' el_quijote.txt
 7- head -c 4 el_quijote.txt
+8-  head -c 4000 el_quijote.txt
