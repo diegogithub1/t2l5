@@ -1,3 +1,4 @@
 1- cd /tmp
 2- pwd
 3- date
+4- cd /home
