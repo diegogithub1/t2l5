@@ -3,3 +3,4 @@
 3- date
 4- cd /home
 5- pwd
+6- ls -li
