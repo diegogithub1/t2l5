@@ -2,3 +2,4 @@
 2- grep -v quijote el_quijote.txt |wc -l
 3- grep -i -o quijote *.txt |wc -l
 4- grep -v quijote *.txt |wc -l
+5- sed 's/panza/barriga/g' el_quijote.txt
