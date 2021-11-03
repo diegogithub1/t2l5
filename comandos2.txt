@@ -6,3 +6,4 @@
 6- ls -li
 7- mkdir PRUEBA
 8- mkdir dir dentro de dirs
+9- cp /etc/hostname /home/alumno/PRUEBA/Mensaje
