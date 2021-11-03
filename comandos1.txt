@@ -3,3 +3,4 @@
 3- ls /etc -r | grep ^t
 4- ls /dev/tty??
 5- ls /dev |grep ^t | grep [1234]$
+6- ls /dev |grep ^t | grep C1$
